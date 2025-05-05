@@ -25,7 +25,7 @@ title: A Collection of Zeroes
 tagline: A musical odyssey
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This archive chronicles the musical projects of A. Darryl Moton"
+description: "This archive chronicles the musical projects of A. Darryl Moton, eitehr solo or as part of groups. These musical projects took place in a variety of locations, from Honolulu, Hawaii to Iowa City, Iowa and everywhere in between."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: A. Darryl Moton
 
@@ -40,10 +40,8 @@ metadata: MotonMusicDemoProper
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-name: "A. Darryl Moton"
+# organization-link: https://darrylzero.com
 
 ##########
 # ROBOTS EXCLUDE
